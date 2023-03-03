@@ -1,0 +1,13 @@
+git clone git@github.com:BigThorMX/Practica.git
+git add . (el punto indica todo el add es agregar los cambios al repositorio)
+git status "indica el status de los cambios"
+git commit -m "Mi primer commit" (agregar descripcion a los cambios)
+git log 
+git branch
+git push origin main
+
+
+Pasos para subir un commit 
+git add . 
+git commit -m "Mi primer commit"
+git push origin main
