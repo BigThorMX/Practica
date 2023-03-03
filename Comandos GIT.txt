@@ -11,3 +11,6 @@ Pasos para subir un commit
 git add . 
 git commit -m "Mi primer commit"
 git push origin main
+
+"Crear una nueva branch"
+git checkout -b nombre-branch 
