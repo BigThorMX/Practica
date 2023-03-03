@@ -14,3 +14,6 @@ git push origin main
 
 "Crear una nueva branch"
 git checkout -b nombre-branch 
+git reset --hard "me resetea a mi ultimo commit"
+git pull "me sube lo que tengo en linea a la pc"
+git checkout nombre-branch "me cambia a una branch que ya existe"
